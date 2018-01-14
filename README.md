@@ -24,6 +24,8 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 **Tutorial:** [Load a Data Set](https://github.com/delkirksey/pyspark-tutorials/tree/master/apps/tutorial_1)
 
+---
+
 ### Module 2: Transforming & Cleaning Unstructured Data
 
 **Goal:**
@@ -40,6 +42,8 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 - How to identify and remove anomalies and missing values
 
 **Tutorial:** [Analyzing Crime in New York City](https://github.com/delkirksey/pyspark-tutorials/tree/master/apps/tutorial_2_nycrime)
+
+---
 
 ### Module 3: Summarizing Data Along Dimensions
 
