@@ -4,7 +4,7 @@ This repository holds several applications that were completed as part of Plural
 
 The course is all about data preparation i.e. cleaning, trasnforming, and summarizing data using Spark.
 
-###Module 1: Getting Started with Spark's Resilient Distributed Datasets
+### Module 1: Getting Started with Spark's Resilient Distributed Datasets
 
 **Goal:**
 
@@ -24,7 +24,7 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 **Tutorial:** [Load a Data Set](https://github.com/delkirksey/pyspark-tutorials/tree/master/apps/tutorial_1)
 
-###Module 2: Transforming & Cleaning Unstructured Data
+### Module 2: Transforming & Cleaning Unstructured Data
 
 **Goal:**
 
