@@ -1,5 +1,6 @@
-# ignore all pyc and checkpoint files
+# ignore all checkpoint and IDE  files
 *.pyc
+.idea
 
 # ignore the vivrtual environment
 spark_env
