@@ -1,6 +1,8 @@
 # ignore all checkpoint and IDE  files
 *.pyc
 .idea
+.ipynb_checkpoints
+metastore_db
 
 # ignore the vivrtual environment
 spark_env
