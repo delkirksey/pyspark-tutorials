@@ -8,7 +8,7 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 ### Module 1: Getting Started with Spark's Resilient Distributed Datasets
 
-**Goal:**
+**Overview:**
 
 - Understanding the role of Spark in data analysis
 - Understand RDDs and their characteristics
@@ -30,7 +30,7 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 ### Module 2: Transforming & Cleaning Unstructured Data
 
-**Goal:**
+**Overview:**
 
 - Transform data using functional constructs
 - Clean unstructured data
@@ -49,7 +49,7 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 ### Module 3: Summarizing Data Along Dimensions
 
-**Goal:**
+**Overview:**
 
 - Learn to represent records as **Pair RDDs**
 - Summarize Pair RDDs using *reduceByKey* and *combineByKey*
@@ -65,3 +65,14 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 ---
 
+### Module 4: Modeling Relationships in the Marvel Social Universe
+
+**Overview:**
+
+- Find the most influential characters
+- Build a Co-occurence network from the given data
+- Find the most important cliques
+
+**What did I learn:**
+
+-
