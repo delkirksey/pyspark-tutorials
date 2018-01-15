@@ -4,6 +4,8 @@ This repository holds several applications that were completed as part of Plural
 
 The course is all about data preparation i.e. cleaning, trasnforming, and summarizing data using Spark.
 
+---
+
 ### Module 1: Getting Started with Spark's Resilient Distributed Datasets
 
 **Goal:**
@@ -55,4 +57,11 @@ The course is all about data preparation i.e. cleaning, trasnforming, and summar
 
 **What did I learn:**
 
+- How to represent records as Pair RDDs
+- How to summarize Pair RDDs using *reduceByKey* and *combineByKey*
+- How to merge data from separate RDDs
+
+**Tutorial:** [Analyzing LA Dodgers Traffic](https://github.com/delkirksey/pyspark-tutorials/tree/master/apps/tutorial_3_dodgers)
+
+---
 
